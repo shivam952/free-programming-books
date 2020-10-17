@@ -358,6 +358,7 @@
 #### Cellular Automata
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
+* [Cellular Automata: Analysis and Applications](https://b-ok.asia/book/2941390/d682af) - Karl-Peter Hadeler, Johannes Müller (PDF)
 
 
 #### Cloud Computing
