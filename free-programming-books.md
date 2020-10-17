@@ -454,7 +454,7 @@
 
 * [Information Retrieval: A Survey](http://www.csee.umbc.edu/csee/research/cadip/readings/IR.report.120600.book.pdf) (PDF)
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
-
+* [Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining](https://b-ok.asia/book/2956688/aa4ae8) - ChengXiang Zhai, Sean Massung (PDF)
 
 #### Licensing
 
