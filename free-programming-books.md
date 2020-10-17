@@ -359,6 +359,7 @@
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
 * [Cellular Automata: Analysis and Applications](https://b-ok.asia/book/2941390/d682af) - Johannes Müller (PDF)
+* [Designing Beauty: The Art of Cellular Automata](https://b-ok.asia/book/2647760/aa3eb9) - Andrew Adamatzky, Genaro J. Martínez (PDF)
 
 
 #### Cloud Computing
