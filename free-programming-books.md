@@ -968,8 +968,10 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Autotools
 
+* [Autotools: A Practitioner's Guide to GNU Autoconf, Automake, and Libtool](https://b-ok.asia/book/762499/3dc582) - John Calcote (PDF)
 * [Autotools Mythbuster](https://autotools.io/index.html)
 * [GNU Autoconf, Automake and Libtool](http://sourceware.org/autobook/)
+
 
 
 ### Awk
